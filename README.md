@@ -1,1 +1,1 @@
-# pipeline_script_build_all
+# Jenkins.build.all.tool
